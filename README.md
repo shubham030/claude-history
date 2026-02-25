@@ -2,6 +2,8 @@
 
 A [Raycast](https://raycast.com) extension to browse, search, and resume your [Claude Code](https://docs.anthropic.com/en/docs/claude-code) sessions.
 
+![Claude History](metadata/claude-history-2.png)
+
 ## Features
 
 - **Browse Sessions** — View all Claude Code sessions grouped by project, with conversation previews
